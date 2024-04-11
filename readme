@@ -1,0 +1,3 @@
+python v3.11
+for install package ->
+    create venv -> in terminal project run command pip install -r requirements.txt
